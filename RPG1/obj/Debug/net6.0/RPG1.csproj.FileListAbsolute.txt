@@ -1,0 +1,15 @@
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\RPG1.exe
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\RPG1.deps.json
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\RPG1.runtimeconfig.json
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\RPG1.dll
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\ref\RPG1.dll
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\bin\Debug\net6.0\RPG1.pdb
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.csproj.AssemblyReference.cache
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.AssemblyInfoInputs.cache
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.AssemblyInfo.cs
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.csproj.CoreCompileInputs.cache
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.dll
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\ref\RPG1.dll
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.pdb
+C:\Users\Michel Douglas\Documents\Cursos\DIO\DotNet\RPG1\obj\Debug\net6.0\RPG1.genruntimeconfig.cache
